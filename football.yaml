@@ -1,0 +1,6 @@
+path: player_tracking_training_data_2/dataset
+train: images/train
+val: images/val
+
+names:
+  0: player

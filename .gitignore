@@ -1,3 +1,8 @@
+# just big prediction and training files :)
+runs/detect/predict*
+frames/
+*.Identifier
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
