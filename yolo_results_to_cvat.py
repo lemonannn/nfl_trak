@@ -3,7 +3,7 @@ import zipfile
 
 # ===== CONFIG =====
 IMAGES_DIR = "frames"
-LABELS_DIR = "runs/detect/predict-6/labels"
+LABELS_DIR = "labels"
 SUBSET_NAME = "obj_train_data"
 OUTPUT_ZIP = "archive.zip"
 

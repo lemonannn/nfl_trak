@@ -1,7 +1,7 @@
 import cv2
 import os
 
-video_path = "test.mp4"
+video_path = "test3.mp4"
 output_dir = "frames"
 
 os.makedirs(output_dir, exist_ok=True)

@@ -1,7 +1,17 @@
 # just big prediction and training files :)
 runs/detect/predict*
 frames/
+player_tracking_training_data*
+test*
+runs*
+*.zip
 *.Identifier
+*.mp4
+*.txt
+*.xml
+*.json
+labels
+models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
