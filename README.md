@@ -1,7 +1,7 @@
 ## NFL Trak
 Using All-22 footage to track player movement in order to create public access to scheme data, team play data, and player movement data.
 
-![Lead Example](outputs/output_gif_2)
+![Lead Example](outputs/output_gif_2.gif)
 
 ## Overview
 This project as it is currently introduces a machine learning pipeline to automatically track football (NFL) players given sideline All-22 footage. 
@@ -66,7 +66,7 @@ Improved Tracking Pipeline:
 
 The model successfully detects all 22 players throughout a play, but still struggles to keep consistent player identities over time.
 
-![Results Example](outputs/output_gif_1)
+![Results Example](outputs/output_gif_1.gif)
 
 ## Repository Structure
 
